@@ -1,6 +1,6 @@
 # About Project_Mitsubishi
 
-Website was built completely from scratch, without using any kind of frameworks or libraries.
+Website built completely from scratch, without using any kind of frameworks or libraries.
 Technology used :
 - php 7.1
 - JavaScript
